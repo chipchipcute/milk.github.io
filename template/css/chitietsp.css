@@ -1,0 +1,138 @@
+
+.anh-sanpham img{
+	width: 370px;
+	height: 370px;
+	margin-left: 190px;
+	float: left;
+}
+.anh-sanpham h1{
+	padding: 20px 0 10px;
+	font-size: 35px;
+	font-family: arial;
+	font-weight: 500;
+	
+}
+.anh-sanpham span{
+	line-height: 1.4;
+    font-size: 14px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+hr{
+	margin-top: 10px;
+	width: 460px;
+	color: black;
+}
+div .tien{
+	font-family: UTMCafeta;
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 10px
+    padding-top:10px;
+}.button{
+	margin-top: 20px;
+}
+#nang{
+	transition: 0.5s;
+            width: 120px;
+            height: 45px;
+            background: none;
+            font-size: 25px;
+            color: SteelBlue;
+            border: 3px solid SteelBlue;
+            border-radius: 5px;
+            outline: none;
+            cursor: pointer;
+}
+#nang:hover{
+            transition: 0.5s;
+            background: lightblue;
+            color: black;
+            box-shadow: 0px 0px 40px lightblue;
+
+          }
+#ma{
+	transition: 0.5s;
+            width: 120px;
+            height: 45px;
+            background: none;
+            font-size: 25px;
+            color: Gold;
+            border: 3px solid Gold;
+            border-radius: 5px;
+            outline: none;
+            cursor: pointer; 
+}
+#ma:hover{
+            transition: 0.5s;
+            background: Gold;
+            color: black;
+
+          }
+#loai{
+	 transition: 0.5s;
+            width: 120px;
+            height: 45px;
+            background: none;
+            font-size: 25px;
+            color: red;
+            border: 3px solid red;
+            border-radius: 5px;
+            outline: none;
+            cursor: pointer;
+}
+#loai:hover{
+            transition: 0.5s;
+            background: red;
+            color: black;
+
+          }
+.khuyenmai{
+	margin-top: 60px;
+	margin-left: 560px;
+	border-radius: 20px;
+	border: 2px solid red;
+	width: 370px;
+	height: 130px;
+}
+.khuyenmai img{
+	width: 40px;
+	height: 50px;
+	padding-top:10px ;
+	margin-left: 15px;
+}
+.khuyenmai span{
+	font-size:30px;
+	padding-left: 20px;
+	font-weight: bold;
+	color: OrangeRed;
+}
+.khuyenmai p{
+	padding-left: 60px;
+	font-style: italic;
+}
+.chuthich{
+	float: right;
+	margin-top: -350px;
+	margin-right: 100px;
+   height: 250px;
+}
+.chuthich img{
+	width: 35px;
+	height: 35px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.chuthich p{
+	width: 370px;
+    margin-top: 42px;
+    padding-bottom: 35px;
+    margin-left: 10px;
+    font-family: arial;
+}
+table{
+	width: 670px;
+	height: 230px;
+	margin-left: 260px;
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
